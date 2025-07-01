@@ -26,5 +26,15 @@ Sendo São Paulo, o Estado com a maior quantidade de cinemas fechados o que corr
     * A modelagem de dados,
     * Medidas DAX para os cálculos,
     * Descritivo das painéis e afins.
-- Planilhas com os dados de complexos e salas, com dados já tratados.  
+- Planilhas com os dados de complexos e salas, com dados já tratados.
+
+  # Links
+
+Dados Abertos<br>
+[Ancine](https://dados.gov.br/dados/conjuntos-dados/salas-de-exibicao-e-complexos-registrados-na-ancine)
+
+Situação econômica Brasil 2015/2016<br>
+
+[G1](https://g1.globo.com/economia/noticia/pib-brasileiro-recua-36-em-2016-e-tem-pior-recessao-da-historia.ghtml)<br>
+[Money Times](https://www.moneytimes.com.br/o-trauma-de-2015-e-2016-no-brasil/)
 
